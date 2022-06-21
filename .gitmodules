@@ -1,0 +1,3 @@
+[submodule "baetorch"]
+	path = baetorch
+	url = https://github.com/bangxiangyong/baetorch
